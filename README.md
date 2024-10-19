@@ -1,8 +1,8 @@
-# DiamondNFT: Faceted Presale and Merkle Distribution
+# ERC721-DiamondNFT: Faceted Presale and Merkle Distribution
 
 ## Overview
 
-DiamondNFT is an advanced Ethereum-based NFT project that leverages the Diamond pattern to create a flexible and upgradeable smart contract system. It combines ERC721 functionality with a presale mechanism and Merkle tree-based token distribution.
+ERC721-DiamondNFT is an advanced Ethereum-based NFT project that leverages the Diamond pattern to create a flexible and upgradeable smart contract system. It combines ERC721 functionality with a presale mechanism and Merkle tree-based token distribution.
 
 ## Features
 
@@ -46,7 +46,7 @@ DiamondNFT/
 
    ```
    git clone https://github.com/GitTM527/ERC721-DiamondNFT.git
-   cd DiamondNFT
+   cd ERC721-DiamondNFT
    ```
 
 2. Install Foundry dependencies:
