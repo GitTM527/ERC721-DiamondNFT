@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts (last updated v5.1.0) (token/ERC721/ERC721.sol)
 
-pragma solidity ^0.8.24;
+pragma solidity ^0.8.0;
 
 import {LibDiamond} from "../libraries/LibDiamond.sol";
 import {IERC721Errors} from "../interfaces/IErorrs.sol";
