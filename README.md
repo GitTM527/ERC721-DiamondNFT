@@ -45,7 +45,7 @@ DiamondNFT/
 1. Clone the repository:
 
    ```
-   git clone hhttps://github.com/Superior212/DiamondNFT.git
+   git clone https://github.com/GitTM527/ERC721-DiamondNFT.git
    cd DiamondNFT
    ```
 
